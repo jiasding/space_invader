@@ -1,1 +1,3 @@
-# space_invader
+# space_invader and snake
+
+course project!
